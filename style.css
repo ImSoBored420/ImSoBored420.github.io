@@ -1,13 +1,11 @@
 body {
     background-color: rgb(50, 75, 216);
-  }
-  
-  h1 {
-    color: white;
-    text-align: center;
-  }
-  
-  p {
+}
+.paragraph {
     font-family: verdana;
     font-size: 20px;
-  }
+}
+.title{
+    color: white;
+    text-align: center;
+}
